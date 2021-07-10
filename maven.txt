@@ -1,0 +1,6 @@
+ 1.yum install -y java-1.8.0-openjdk-devel
+ 
+ 2.java -version
+ 3.cd /usr/local/src
+ 4.wget http://www-us.apache.org/dist/maven/maven-3/3.5.4/binaries/apache-maven-3.5.4-bin.tar.gz
+  
